@@ -1,7 +1,7 @@
-Hey there!
+Olá!
 
-This repository was created in order to store the files of the 'Fintech' project made by a student at FIAP university.
+Este repositório foi criado com o objetivo de armazenar os arquivos do projeto ‘Fintech’ feito por um aluno da universidade FIAP.
 
-Note: It is important that the images are in the same folder as the html and css, otherwise the html will not open correctly. 
+Obs: É importante que as imagens estejam na mesma pasta do html e css, caso contrário o html não abrirá corretamente.
 
-See yah!
+Até mais!
